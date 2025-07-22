@@ -49,7 +49,7 @@ h1 {
 
 @media (width<=500px) {
     .banner {
-        height: 70vh;
+        height: 80vh;
     }
     .banner__a {
         margin-inline: 4px;
