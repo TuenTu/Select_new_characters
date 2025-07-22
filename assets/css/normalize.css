@@ -1,0 +1,37 @@
+@font-face {
+    font-family: "Reem";
+    src: url(../fonts/ReemKufiFun-Medium.woff2);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Reem";
+    src: url(../fonts/ReemKufiFun-VariableFont_wght.woff2);
+    font-weight: normal;
+}
+
+*{
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+    font-family: "Reem";  
+    font-weight: normal;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;   
+}
+
+ul {
+    list-style: none;
+}
+
+.container {
+    padding-inline: 40px;
+}
+
+@media (width <= 500px) {
+    .container{
+        padding-inline: 10px;
+    }
+}

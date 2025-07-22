@@ -1,0 +1,37 @@
+@keyframes ticker {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(calc(-50% - 200px));
+    }
+}
+
+.ticker {
+    background: linear-gradient(0.25turn, #18505d, #111f28, #18505d, #111f28, #18505d);
+    color: white;
+    padding-top: 10px;
+    left: 50%;
+    padding-bottom: 10px;
+    overflow: hidden;
+    width: 100%;
+    max-width: 2600px;
+    display: flex;
+}
+
+.ticker__in {
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    flex-shrink: 0;
+    gap: 90px;
+    overflow: hidden;
+    animation: ticker 5s linear infinite;
+    -webkit-transform-style: preserve-3d; 
+    white-space: nowrap;
+}
+
+.ticker__item {
+    overflow: hidden;
+    -webkit-backface-visibility: hidden;
+}
