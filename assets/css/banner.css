@@ -10,7 +10,7 @@
     gap: 10px;
     color: white;
     text-align: center;
-    font-size: clamp(16px, 1.8vw, 20px);
+    font-size: clamp(14px, 1.8vw, 20px);
 }
 
 .banner__p {
@@ -49,7 +49,7 @@ h1 {
 
 @media (width<=500px) {
     .banner {
-        height: 80vh;
+        height: 90vh;
     }
     .banner__a {
         margin-inline: 4px;
