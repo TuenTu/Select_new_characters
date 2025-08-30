@@ -30,6 +30,10 @@ ul {
     padding-inline: 40px;
 }
 
+button {
+        cursor: pointer;
+}
+
 @media (width <= 500px) {
     .container{
         padding-inline: 10px;

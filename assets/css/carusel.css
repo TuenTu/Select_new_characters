@@ -42,6 +42,7 @@
     
 }
 
+
 .slide__bottom {
     background-image: linear-gradient(0.4turn, rgb(172, 224, 234, 0.4), rgba(6, 89, 100, 0.4));
     backdrop-filter: blur(8px);
@@ -62,8 +63,8 @@
     /* Картинку растянуть на всю ширину и высоту и задать object-fit cover */
 }
 
-.slide:hover {
-    transform: scale(1.25);
+.isActive>.slide {
+    transform: scale(1.45) !important;
     background-color:#5ea7b5;
     box-shadow: 0px 0px 25px 10px rgba(255, 255, 255, 0.2);
         /* background-image: linear-gradient(0.4turn, #ace0ea 15%, #086a77 50%); */
@@ -71,7 +72,9 @@
     /* background-image: linear-gradient(0.55turn, #ace0ea 15%, #086a77 60%); */
 
 }
-
+/* .swiper-slide[data-index="1"]{
+    transform: scale(2) !important;
+} */
 .carusel__img {
     width: inherit;
     height: inherit;

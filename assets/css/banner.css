@@ -31,6 +31,7 @@ h1 {
 
 .banner__a {
     margin-inline: 15px;
+    font-size: 20px;
     transition: 0.3s;
     color: #ffffff;
     background-color: transparent;

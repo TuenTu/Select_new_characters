@@ -8,6 +8,7 @@
 }
 
 .ticker {
+    position: relative;
     background: linear-gradient(0.25turn, #18505d, #111f28, #18505d, #111f28, #18505d);
     color: white;
     padding-top: 10px;

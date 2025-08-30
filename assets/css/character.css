@@ -15,7 +15,8 @@
 }
 
 .character__left {
-    
+    position: relative;
+    z-index: 1;
     width: 100%;
     max-width: 470px;
     min-height: 500px;
@@ -53,7 +54,8 @@
 }
 
 .character__right {
-    
+    position: relative;
+    z-index: 1;
     width: 100%;
     max-width: 360px;
     min-height: 400px;
@@ -76,7 +78,7 @@
 
 .character__preview{
     width: 100%;
-    max-width: 1000px;
+    max-width: 600px;
     position: absolute;
     bottom: 0;
     left: 50%;
