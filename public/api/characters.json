@@ -3,17 +3,21 @@
         "name": "Elara Nyxian",
         "description": "Lorem ipsum dolor sit amet",
         "image_url": "/public/static/image3carusel.webp",
+        "character_description": "Elara is a skilled archer with a mysterious past, known for her agility and sharp eyesight. Her name signifies 'light of the night', reflecting her ability to navigate through darkness with grace.",
+        "img_full_url": "/public/static/img_full1.webp",
         "place_h3": "Moonshadow Bow",
         "place_p": "A beautifully crafted bow made from enchanted ebony wood, allowing her arrows to fly silently and strike with deadly precision.",
         "weapon_h3": "Spectral Shot",
         "weapon_p": "Fires an ethereal arrow that penetrates solid objects and reveals hidden enemies, making them vulnerable to attacks.",
-        "rate_p": "☆☆☆☆☆"
+        "rate_p": "☆☆☆"
     },
 
     {
         "name": "Kaelon Vyrth",
         "description": "Lorem ipsum dolor sit amet",
         "image_url": "/public/static/image4carusel.webp",
+         "character_description": "Kaelon is a master swordsman, revered for his unwavering determination and honor. His name represents 'brave warrior', a fitting description of his demeanor on the battlefield.",
+         "img_full_url": "/public/static/img_full5.webp",
         "place_h3": "Eclipse Blade",
         "place_p": " A stunning sword forged from celestial metals, known for its balance and ability to cut through magical defenses.",
         "weapon_h3": "Crescent Slash",
@@ -25,11 +29,13 @@
         "name": "Lyara Veylith",
         "description": "Lorem ipsum dolor sit amet",
         "image_url": "/public/static/image1carusel.webp",
+        "character_description": "Veylith is inspired by fantasy words, meaning 'light bringer' or 'crystal protector'. This name reflects the magical and elegant aura of his character, while also describing his role as a strong but mysterious figur mue.",
+         "img_full_url": "/public/static/image1111111.webp",
         "place_h3": "Tenryuu",
         "place_p": "Made from the sacred wood of the eldoria tree, which has absorbed the energy of crystals for centuries.",
         "weapon_h3": "Crystall Arrow",
         "weapon_p": "Can destroy energy barriers and paralyze dark creatures.",
-        "rate_p": "☆☆☆☆☆"
+        "rate_p": "☆☆☆☆"
 
     },
 
@@ -37,6 +43,8 @@
         "name": "Soren Dhalis",
         "description": "Lorem ipsum dolor sit amet",
         "image_url": "/public/static/image6carusel.webp",
+         "character_description": "Soren is a formidable swordsman, characterized by his calm and tactical approach to combat. His surname, 'Dhalis', means 'steel', symbolizing his resilience.",
+         "img_full_url": "/public/static/img_full2.webp",
         "place_h3": "Tempest Edge",
         "place_p": "A powerful broadsword imbued with storm energy, capable of unleashing thunderous strikes.",
         "weapon_h3": "Stormcaller",
@@ -48,11 +56,13 @@
         "name": "Mirael Valis",
         "description": "Lorem ipsum dolor sit amet",
         "image_url": "/public/static/image2carusel.webp",
+         "character_description": "Mirael is an agile crossbowwoman, radiating confidence and strength. Her surname 'Valis' translates to 'flow', embodying her desire for freedom and quick reflexes.",
+         "img_full_url": "/public/static/img_full3.webp",
         "place_h3": "Lightwind Crossbow",
         "place_p": "A beautifully crafted crossbow made from rare wood, imbued with crystals that allow her bolts to fly with exceptional accuracy.",
         "weapon_h3": "Radiant Shield",
         "weapon_p": "Creates a glowing barrier that protects allies from attacks while blinding enemies within its radius.",
-        "rate_p": "☆☆☆☆☆"
+        "rate_p": "☆☆☆"
     }
 
 ]

@@ -7,10 +7,10 @@ let place = document.querySelector(".place")
 let weapon = document.querySelector(".weapon")
 let rate = document.querySelector(".rate")
 
-console.dir(place.children[0].textContent = "ewfipjweqfewoifjwe");
 
 
-fetch("/public/api/characters.json")
+
+fetch("./public/api/characters.json")
 .then((response)=>{
     console.log(response);
     return response.json()
@@ -54,14 +54,14 @@ function addListenerCards(info){
     
     cards.forEach((card, i) => {
         card.addEventListener("click", ()=>{
-            img.src = info[i].image_url
+            img.src = info[i].img_full_url
             place.children[0].textContent = info[i].place_h3
             place.children[1].textContent = info[i].place_p
             weapon.children[0].textContent = info[i].weapon_h3
             weapon.children[1].textContent = info[i].weapon_p
             rate.children[1].textContent = info[i].rate_p
             name.textContent = info[i].name
-            p.textContent = info[i].description
+            p.textContent = info[i].character_description
         })
     })
 }

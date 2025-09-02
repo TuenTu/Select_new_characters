@@ -15,8 +15,8 @@
 }
 
 .character__left {
+    z-index: 100;
     position: relative;
-    z-index: 1;
     width: 100%;
     max-width: 470px;
     min-height: 500px;
@@ -55,7 +55,7 @@
 
 .character__right {
     position: relative;
-    z-index: 1;
+    z-index: 100;
     width: 100%;
     max-width: 360px;
     min-height: 400px;
@@ -72,13 +72,14 @@
 .character__logo {
     position: absolute;
     bottom: 40px;
+    z-index: 100;
     right: 40px;
     max-width: 120px;
 }
 
 .character__preview{
     width: 100%;
-    max-width: 600px;
+    max-width: 1000px;
     position: absolute;
     bottom: 0;
     left: 50%;
@@ -86,7 +87,7 @@
 }
 
 .character__img {
-    width: 100%;
+    width: 1000px;
 }
 
 .character__name{
@@ -95,13 +96,14 @@
     right: 5px;
     font-size: clamp(25px, 4vw, 60px);
     text-transform: uppercase;
+    z-index: 100;
     
 
 }
 
 .character__bottomgradient {
     position: absolute;
-    height: 220px;
+    height: 200px;
     bottom: 0;
     left: 0;
     right: 0;
