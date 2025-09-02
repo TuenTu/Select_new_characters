@@ -4,7 +4,7 @@
         "description": "Lorem ipsum dolor sit amet",
         "image_url": "./public/static/image3carusel.webp",
         "character_description": "Elara is a skilled archer with a mysterious past, known for her agility and sharp eyesight. Her name signifies 'light of the night', reflecting her ability to navigate through darkness with grace.",
-        "img_full_url": "./public/static/img_full1.webp",
+        "img_full_url": "./public/static/Img_full1.webp",
         "place_h3": "Moonshadow Bow",
         "place_p": "A beautifully crafted bow made from enchanted ebony wood, allowing her arrows to fly silently and strike with deadly precision.",
         "weapon_h3": "Spectral Shot",
