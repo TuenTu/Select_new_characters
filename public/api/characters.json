@@ -2,13 +2,23 @@
     {
         "name": "Elara Nyxian",
         "description": "Lorem ipsum dolor sit amet",
-        "image_url": "/public/static/image3carusel.webp"
+        "image_url": "/public/static/image3carusel.webp",
+        "place_h3": "Moonshadow Bow",
+        "place_p": "A beautifully crafted bow made from enchanted ebony wood, allowing her arrows to fly silently and strike with deadly precision.",
+        "weapon_h3": "Spectral Shot",
+        "weapon_p": "Fires an ethereal arrow that penetrates solid objects and reveals hidden enemies, making them vulnerable to attacks.",
+        "rate_p": "☆☆☆☆☆"
     },
 
     {
         "name": "Kaelon Vyrth",
         "description": "Lorem ipsum dolor sit amet",
-        "image_url": "/public/static/image4carusel.webp"
+        "image_url": "/public/static/image4carusel.webp",
+        "place_h3": "Eclipse Blade",
+        "place_p": " A stunning sword forged from celestial metals, known for its balance and ability to cut through magical defenses.",
+        "weapon_h3": "Crescent Slash",
+        "weapon_p": "Executes a swift, curved attack that sends out a crescent energy wave, damaging all foes in its path.",
+        "rate_p": "☆☆☆☆☆"
     },
 
     {
@@ -16,9 +26,9 @@
         "description": "Lorem ipsum dolor sit amet",
         "image_url": "/public/static/image1carusel.webp",
         "place_h3": "Tenryuu",
-        "place_p": "Made from the sacred wood of the eldorio which has aosorb«i the energy cf crystals for centuries.",
+        "place_p": "Made from the sacred wood of the eldoria tree, which has absorbed the energy of crystals for centuries.",
         "weapon_h3": "Crystall Arrow",
-        "weapon_p": "Con destroy energy txrriers ard paralyze cttures",
+        "weapon_p": "Can destroy energy barriers and paralyze dark creatures.",
         "rate_p": "☆☆☆☆☆"
 
     },
@@ -26,13 +36,23 @@
     {
         "name": "Soren Dhalis",
         "description": "Lorem ipsum dolor sit amet",
-        "image_url": "/public/static/image6carusel.webp"
+        "image_url": "/public/static/image6carusel.webp",
+        "place_h3": "Tempest Edge",
+        "place_p": "A powerful broadsword imbued with storm energy, capable of unleashing thunderous strikes.",
+        "weapon_h3": "Stormcaller",
+        "weapon_p": "Summons a storm cloud that strikes enemies with lightning, dealing area damage and stunning them momentarily.",
+        "rate_p": "☆☆☆☆☆"
     },
 
     {
         "name": "Mirael Valis",
         "description": "Lorem ipsum dolor sit amet",
-        "image_url": "/public/static/image2carusel.webp"
+        "image_url": "/public/static/image2carusel.webp",
+        "place_h3": "Lightwind Crossbow",
+        "place_p": "A beautifully crafted crossbow made from rare wood, imbued with crystals that allow her bolts to fly with exceptional accuracy.",
+        "weapon_h3": "Radiant Shield",
+        "weapon_p": "Creates a glowing barrier that protects allies from attacks while blinding enemies within its radius.",
+        "rate_p": "☆☆☆☆☆"
     }
 
 ]
